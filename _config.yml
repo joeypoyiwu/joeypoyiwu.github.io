@@ -1,0 +1,55 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	rouge
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Lampshade Grenades
+tagline:	'Lampshade Grenades'
+description:	'A meta commentary on the meta state of video games and anime.'
+url:		https://lampshadegrenades.github.io/
+commentsystem:	google
+disqus:		
+
+author:
+  name:		'Joey Wu + Joseph Pham'
+  url:		https://joeypoyiwu.github.io/
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon2.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	
+    desc:	
+    
+  - icon:	github
+    url:	
+    desc:	
+
+  - icon:	googleplus-alt
+    url:	
+    desc:	
+
+  - icon:	feed
+    url:	
+    desc:	
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+
+
+copyright:
+  author:	Lampshade Grenaders
+  url:		https://joeypoyiwu.github.io/
+  type_title:	Some Rights Reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5/br
